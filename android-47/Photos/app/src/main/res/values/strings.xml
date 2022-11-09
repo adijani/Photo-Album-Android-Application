@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="create_new_album">Create New Album</string>
+    <string name="new_album">New Album</string>
+    <string name="create">Create</string>
+    <string name="edit_album">Edit Album</string>
+    <string name="new_name">New Name</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="paste">Paste</string>
+    <string name="add">Add</string>
+    <string name="display">Display</string>
+    <string name="delete">Delete</string>
+    <string name="delete_tag">Delete Tag</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="prev"><![CDATA[<<]]></string>
+    <string name="search">Search</string>
+</resources>
