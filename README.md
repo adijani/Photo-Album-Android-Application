@@ -3,6 +3,7 @@ Using Android Studio to make a functional Photo Album Application
 
 
 CS 213 - Android Project
+
 Chess OR Photos
 
     You will continue working in pairs.
@@ -11,7 +12,7 @@ Chess OR Photos
     You may serialize the data used in your app, but are not required to do so - you can use alternative formats for storage on the device.
     Javadoc and UML are not required. Lateness penalties same as for Chess and Photos.
 
-Chess
+CHESS
 
 Port the terminal-based Chess program to Android: a chess app that lets two people play chess with each other on the phone. You need to carry over all the functionality from the Chess project, and implement some other new functionality.
 
@@ -36,7 +37,8 @@ Recording games (50 pts)
 Game playback (30 pts)
 
 A function that allows the user to play a selected recorded game. The selected game should be playable one move at a time, per player. The user of the app will click each time they want to see the next move (i.e. the moves are not auto-animated.)
-Photos
+
+PHOTOS
 
 You are not required to carry over all the functionality from the JavaFX implementation. Instead, you will implement a smaller set, as described below. You may reuse any of the code from your JavaFX project.
 
@@ -61,6 +63,7 @@ Your app should implement the following features:
         Note: You are NOT required to implement functionality to add new tag types, or save the matching photos in an album.
 
 You may save photos to the device's gallery. Here's some info on how to access files (including photos) from storage.
+
 Frequently Asked Questions
 
     Q: Are there any particular requirements for the android projects as long as the project satisfies the functionality that is listed in the project description? For instance, should we have a certain project structure, should we be using specific UI elements, etc.?
